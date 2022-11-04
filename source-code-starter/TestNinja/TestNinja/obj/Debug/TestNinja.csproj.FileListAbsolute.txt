@@ -11,3 +11,17 @@
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.AssemblyReference.cache
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\UQ63XU\OneDrive - ING\Andrei\uq63xu\Personal\Source\UnitTestintMasterClass\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
