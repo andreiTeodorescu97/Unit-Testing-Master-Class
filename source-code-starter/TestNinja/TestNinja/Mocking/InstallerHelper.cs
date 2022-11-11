@@ -1,17 +1,23 @@
 ﻿using System.Net;
+using TestNinja.Mocking.Mocks;
 
 namespace TestNinja.Mocking
 {
     public class InstallerHelper
     {
+        private readonly IWebClientWrapper _webClientWrapper;
         private string _setupDestinationFile;
+
+        public InstallerHelper(IWebClientWrapper webClientWrapper)
+        {
+            _webClientWrapper = webClientWrapper;
+        }
 
         public bool DownloadInstaller(string customerName, string installerName)
         {
-            var client = new WebClient();
             try
             {
-                client.DownloadFile(
+                _webClientWrapper.DownloadFile(
                     string.Format("http://example.com/{0}/{1}",
                         customerName,
                         installerName),
@@ -21,7 +27,7 @@ namespace TestNinja.Mocking
             }
             catch (WebException)
             {
-                return false; 
+                return false;
             }
         }
     }

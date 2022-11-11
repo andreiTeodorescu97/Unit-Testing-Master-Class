@@ -1,21 +1,20 @@
 ﻿using System.Data.Entity;
+using TestNinja.Mocking.Mocks;
 
 namespace TestNinja.Mocking
 {
     public class EmployeeController
     {
-        private EmployeeContext _db;
+        private readonly IEmployeeHelper _employeeHelper;
 
-        public EmployeeController()
+        public EmployeeController(IEmployeeHelper employeeHelper)
         {
-            _db = new EmployeeContext();
+            _employeeHelper = employeeHelper;
         }
 
         public ActionResult DeleteEmployee(int id)
         {
-            var employee = _db.Employees.Find(id);
-            _db.Employees.Remove(employee);
-            _db.SaveChanges();
+            _employeeHelper.DeleteEmployee(id);
             return RedirectToAction("Employees");
         }
 

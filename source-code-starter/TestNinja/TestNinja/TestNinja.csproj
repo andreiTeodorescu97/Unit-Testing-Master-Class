@@ -61,8 +61,16 @@
     <Compile Include="Mocking\BookingHelper.cs" />
     <Compile Include="Mocking\EmployeeController.cs" />
     <Compile Include="Mocking\InstallerHelper.cs" />
+    <Compile Include="Mocking\Mocks\EmployeeHelper.cs" />
+    <Compile Include="Mocking\Mocks\FileReaders.cs" />
+    <Compile Include="Mocking\Mocks\IEmployeeHelper.cs" />
+    <Compile Include="Mocking\Mocks\IVideoRepository.cs" />
+    <Compile Include="Mocking\Mocks\IWebClientWrapper.cs" />
+    <Compile Include="Mocking\Mocks\VideoRepository.cs" />
+    <Compile Include="Mocking\Mocks\WebClientWrapper.cs" />
     <Compile Include="Mocking\OrderService.cs" />
     <Compile Include="Mocking\Product.cs" />
+    <Compile Include="Mocking\Program.cs" />
     <Compile Include="Mocking\VideoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
