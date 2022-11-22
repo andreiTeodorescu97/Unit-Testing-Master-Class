@@ -62,8 +62,11 @@
     <Compile Include="Mocking\EmployeeController.cs" />
     <Compile Include="Mocking\InstallerHelper.cs" />
     <Compile Include="Mocking\Mocks\BookingRepository.cs" />
+    <Compile Include="Mocking\Mocks\EmailService.cs" />
     <Compile Include="Mocking\Mocks\EmployeeHelper.cs" />
     <Compile Include="Mocking\Mocks\FileReaders.cs" />
+    <Compile Include="Mocking\Mocks\FileSaver.cs" />
+    <Compile Include="Mocking\Mocks\HouseKeeperService.cs" />
     <Compile Include="Mocking\Mocks\IEmployeeHelper.cs" />
     <Compile Include="Mocking\Mocks\IVideoRepository.cs" />
     <Compile Include="Mocking\Mocks\IWebClientWrapper.cs" />
